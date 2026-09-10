@@ -1,0 +1,6 @@
+{
+  "name": "IP CrossLab｜AI 跨媒體 IP 企劃助手",
+  "description": "黑客松升級版：結合 Gemini 3.8 Flash 與 IBM Quantum Optimization，將創意孵化為遊戲、電影、YouTube、小說與商業 IP，並運用量子退火求解跨媒體資源最佳化配置。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
